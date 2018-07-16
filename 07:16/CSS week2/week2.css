@@ -1,0 +1,60 @@
+
+    .box{
+        position:absolute;
+        width:1000px;
+        height:600px;
+        background-color:silver;
+        
+        }
+
+    .box1{
+        position:absolute;
+        width:480px;
+        height:580px;
+        background-color:orange;
+        top:10px;
+        left:10px;
+        }
+
+    .box2{
+        background-color:yellow;
+        top:10px;
+        left:500px;
+        }
+
+    .box3{
+        background-color:green;
+        top:10px;
+        left:750px}
+
+    .box4{
+        background-color:blue;
+        top:305px;
+        left:500px;
+        }
+    .box5{
+        height:285px;
+        background-color:purple;
+        top:305px;
+        left:750px;}
+
+    .box-style{
+        position:absolute;
+        width:240px;
+        height:285px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

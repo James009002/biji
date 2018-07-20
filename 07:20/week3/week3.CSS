@@ -1,0 +1,48 @@
+
+
+
+.box1{
+    position:relative;
+    height:500px;
+    width:300px;
+    background-color:#FFFAFA;  
+    border-radius:10px; 
+    overflow:hidden;  
+    margin:5px;
+    display:inline-block;
+    }
+
+
+.picture1{
+    background-image:url('../left.jpg');
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    display:inline-block;
+    position:relative;
+    float:left;
+    height:60%;
+    width:100%;
+    
+    }
+
+.word1{
+    position:absolute;
+    font-size:30px;
+    color:black;
+    bottom:15px;
+    left:0px;
+    padding:10px;
+    }
+
+.word2{
+    font-size:30px;
+    color:#4c4948;
+    }
+.word3{
+    font-size:20px;
+    color:#6f7b8a;
+
+}
+
+

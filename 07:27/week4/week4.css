@@ -1,0 +1,207 @@
+		
+
+		.top{
+			width:960px;
+			height:auto;
+			background-color:#f4f4f4;
+			
+			
+			
+		}
+
+		.top1{
+            display:inline-block;
+			margin:80px;
+		
+		}	
+
+		.bottom{
+			width:960px;	
+			display:inline-block;
+			background-color:white;	
+		}
+
+ 		.bottom1{
+ 			position: relative;
+ 			left:120px;
+ 		}
+
+		.bottom2{
+			position:relative;
+			left:120px;
+
+		}
+
+		.bottom3{
+			position:relative;
+			left:120px;
+			
+		}
+
+		.bottom4{
+			margin-top:55px;
+			text-align:center;
+			font-weight:lighter;
+		}
+		
+		.word1{
+			font-size:40px;
+			font-weight:lighter;
+
+		}
+		.word2{
+			font-size:28px;
+			font-weight:lighter;
+			line-height:1.5;
+
+		}
+		.word3{
+			font-size:28px;
+			font-weight:bold;
+		}
+
+		.word4{
+			font-weight:normal;
+			font-size:48px;
+			margin-top:0px;
+			margin-bottom:20px}
+
+		.word5{
+			font-weight:normal;
+			font-size:30px;
+			margin-bottom:30px;
+			margin-top:0px;
+		}
+
+		.word6{
+			font-weight:normal;
+			font-size:28px;
+			margin-bottom:15px;
+			margin-top:0px;
+		}
+
+		.word7{
+			font-weight:normal;
+			font-size:28px;
+			margin-bottom:65px;
+			margin-top:0px;
+		}
+
+		.word8{
+			font-weight:lighter;
+			font-size:28px;
+			line-height:2;
+			margin-top:0px;
+			margin-bottom:0px;
+		
+		}
+		.word9{
+			font-weight:lighter;
+			font-size:28px;
+			line-height:2; 
+			margin-bottom:50px;
+			margin-top:0px;
+
+		}
+
+		.word10{
+			font-size:20px;
+			margin-bottom:15px;
+			margin-left:-450px;
+			font-weight:lighter;
+			color:black;
+		}
+
+		.word11{
+			margin-left:-450px;
+			font-weight:lighter;
+
+		}
+
+		.word12{
+			font-weight:normal;
+			font-size:28px;
+			margin-bottom:65px;
+			margin-top:0px;
+			margin-bottom:135px
+
+		}
+
+
+		.word13{
+			font-size:28px;
+			font-weight:bolder;
+			line-height:1.5;
+			margin-top:0px;
+
+		}
+
+		.word14{
+			font-size:28px;
+			font-weight:lighter;
+			line-height:1.5;
+			margin-bottom:0px;
+		}
+
+		.img1{
+			width:310px;
+			margin:60px 0px 80px 65px;
+		}
+
+
+		.img2{
+			width:130px;;
+			margin-bottom:0px;
+
+		}
+
+		.img3{
+			width:250px;
+			margin-right:235px;
+			float:right;
+		}
+
+		.img4{
+			width:250px;
+			margin-right:235px;
+			float:right;
+		}
+
+
+		.img5{
+			width:250px;
+			margin-right:235px;
+			float:right;
+		}
+
+
+		.img6{
+			width:130px;
+			margin-bottom:0px;
+
+		}
+
+		.img7{
+
+			width:130px;
+			margin-bottom:0px;
+
+		}
+
+		.img8{
+			width:320px;
+			margin:0px 105px 0px 65px;
+		}
+
+		.img9{
+			width:960px;
+
+		}
+
+
+
+
+
+
+
+

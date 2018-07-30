@@ -2,6 +2,7 @@
 				width:960px;
 				height:auto;
 				background-color:#f4f4f4;
+				margin:auto;
 			}
 
 
@@ -18,9 +19,17 @@
 
 			}
 
+			.content-top-size1{
+				font-size:40px;
+			}
+
+			.content-top-size2
+			{
+				font-weight:bold;margin-top:-30px
+			}
 
 			.box-mid{
-				margin:60px 120px 120px 120px
+				margin:60px 120px 10px 120px
 			}
 
 			.box-mid1{
@@ -51,10 +60,10 @@
 
 
 			.box-bottom{	
-				font-size:28px;
 				font-weight:lighter;
+				font-size:28px;		
 				line-height:2;
-				
+				margin-bottom:50px;
 			}
 
 
@@ -64,6 +73,7 @@
 				background-color:white;
 				display:inline-block;
 				margin-left:-120px;
+
 			}
 
 
@@ -103,16 +113,31 @@
 
 
 			.order_info{
-				float:right;
 				width:250px;
-
+			}
+			.float-element{
+				float:right;
 			}
 
 
+			.img-wid{
+				width:100%
+			}
+
+			.img-mar{
+				margin-left:-60px;
+			}
 
 
+			.img-fb{
+				width:20px;
+				height:20px;
+				vertical-align:middle
 
+			}
 
-
+			.a-wid{
+				width:210px;
+			}
 
 

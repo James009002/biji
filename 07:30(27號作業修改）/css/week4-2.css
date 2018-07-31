@@ -7,7 +7,7 @@
 
 
 			.box-top{
-				margin:60px;
+				margin:80px;
 
 			}
 
@@ -15,7 +15,7 @@
 				font-weight:lighter;
 				font-size:28px;
 				line-height:1.5;
-				margin:30px;
+				margin-bottom:30px;
 
 			}
 
@@ -23,9 +23,9 @@
 				font-size:40px;
 			}
 
-			.content-top-size2
-			{
-				font-weight:bold;margin-top:-30px
+			.content-top-size2{
+				font-weight:bold;
+				margin-top:-30px
 			}
 
 			.box-mid{
@@ -138,6 +138,12 @@
 
 			.a-wid{
 				width:210px;
+			}
+
+			.a-fb{
+				margin-top:5px;	
+				margin-bottom:10px;		
+
 			}
 
 

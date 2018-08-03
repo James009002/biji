@@ -21,6 +21,7 @@
 	}
 
 	.top-content2{
+		z-index:2;
 		font-size:30px;
 		font-weight:lighter;
 		margin-bottom:10px;
@@ -28,6 +29,7 @@
 	}
 
 	.top-content3{
+		z-index:2;
 		font-size:20px;
 		font-weight:lighter;
 		margin-bottom:20px;
@@ -88,8 +90,10 @@
 	}
 
 	.bottom-top{
+		position:relative;
 		width:400px;
 		height:150px;
+		margin-bottom:-30px;
 	}
 
 	.bottom-bottom{
@@ -111,7 +115,7 @@
 	}
 
 	.bottom1-content3{
-		font-size:20px
+		font-size:20px;
 		font-weight:lighter;
 		color:white;
 		line-height:2;
@@ -146,7 +150,11 @@
     }
 
     .bottom-img4{
+    	position:absolute;
     	width:100px;
+    	z-index:0;
+    	margin-left:230px;
+    	margin-top:-30px;
     }
     .bottom-img5{
     	width:150px;
